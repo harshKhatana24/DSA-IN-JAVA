@@ -1,4 +1,6 @@
 import java.util.*;
+//sorting using divide and conquer
+
 
 public class quickSort {
     public static void main(String[] args) {
