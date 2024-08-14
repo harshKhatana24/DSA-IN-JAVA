@@ -2,6 +2,7 @@ import java.util.*;
 //sorting using divide and conquer
 
 
+
 public class quickSort {
     public static void main(String[] args) {
         int[] arr = {50,20,40,30,70,90,10};
